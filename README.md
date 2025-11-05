@@ -14,7 +14,7 @@
   <img src="./images/Captura_2.JPG" alt="6" width="1000"/>
 </p>
 <h2 align="left"> ● Post: </h2>
-<p align="justify">Se añaden 3 usuarios siguiendo el esquema:</p>
+<p align="justify">Ejm: Se añaden 3 contactos a la tabla <i>contacts</i>. Para ello, se sigue el siguiente esquema:</p>
 {<br>
   "first_name": "string",<br>
   "last_name": "string",<br>
@@ -23,9 +23,34 @@
 }
 <br><br>
 <p align="left">
-  <img src="./images/Captura_4.JPG" alt="6" width="750"/>
+  <img src="./images/Captura_3.JPG" alt="6" width="500"/>
 </p>
 <p align="left">
-  <img src="./images/Captura_5.JPG" alt="6" width="750"/>
+  <img src="./images/Captura_4.JPG" alt="6" width="500"/>
+</p>
+<p align="left">
+  <img src="./images/Captura_5.JPG" alt="6" width="500"/>
 </p>
 <p align="justify"></p>
+<hr>
+<h2 align="left"> ● GET: </h2>
+<p align="justify">Se muestran todos los contactos de la tabla <i>contacts</i>.</p>
+<p align="left">
+  <img src="./images/Captura_6.JPG" alt="6" width="500"/>
+</p>
+<p align="left">
+  <img src="./images/Captura_7.JPG" alt="6" width="500"/>
+</p>
+<h2 align="left"> ● GET {contact_id}: </h2>
+<p align="justify">Ejm: Se quiere mostrar toda la información del contacto con <i>id = 2 (existe)</i> de la tabla <i>contacts</i>.</p>
+<p align="left">
+  <img src="./images/Captura_8.JPG" alt="6" width="500"/>
+</p>
+<p align="justify">Ejm: Se quiere mostrar toda la información del contacto con <i>id = 4 (no existe)</i> de la tabla <i>contacts</i>.</p>
+<p align="left">
+  <img src="./images/Captura_9.JPG" alt="9" width="500"/>
+</p>
+<p align="left">
+  <img src="./images/Captura_10.JPG" alt="6" width="500"/>
+</p>
+<hr>
